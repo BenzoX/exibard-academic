@@ -73,3 +73,11 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+# Remove sharing icons where they are not needed
+cascade:
+  - _target:
+      path: /publication/**
+    share: false
+  - _target:
+      path: /talk/**
+    share: false

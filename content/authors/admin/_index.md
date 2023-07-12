@@ -68,7 +68,7 @@ social:
   - icon: envelope
     icon_pack: fas
 #    link: '/#contact'
-    link: 'mailto:leoe@univ-eiffel.fr'  # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:leo.exibard@univ-eiffel.fr'  # For a direct email link, use "mailto:test@example.org".
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -100,17 +100,19 @@ highlight_name: true
 
 On September 2022, I joined [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) as an assistant professor (_maître de conférences_) in the [Laboratoire d'Informatique Gaspard Monge (LIGM)](https://siteigm.univ-mlv.fr/home/), in the [BAAM team](https://siteigm.univ-mlv.fr/equipe/baam/).
 
-Previously, I was a postdoctoral researcher at the *Icelandic Centre of Excellence in Theoretical Computer Science* [(ICE-TCS)](http://www.icetcs.ru.is/)  at [Reykjavik University](https://en.ru.is/), in the *Mode(l)s of Verification and Monitorability* [(MoVeMnt)](https://sites.google.com/view/antonisachilleos/movemnt) project, with [Luca Aceto](https://www.ru.is/faculty/luca/), [Antonis Achilleos](https://sites.google.com/view/antonisachilleos/), [Anna Ing&oacute;lfsd&oacute;ttir](https://www.ru.is/kennarar/annai/), [Adrian Francalanza](https://staff.um.edu.mt/afra1/) and [Karoliina Lehtinen](http://www.pageperso.lif.univ-mrs.fr/~karoliina.lehtinen/).
+Previously, I was a postdoctoral researcher at the *Icelandic Centre of Excellence in Theoretical Computer Science* [(ICE-TCS)](http://www.icetcs.ru.is/)  at [Reykjavik University](https://en.ru.is/), in the *Mode(l)s of Verification and Monitorability* [(MoVeMnt)](http://icetcs.ru.is/movemnt/) project, with [Luca Aceto](https://www.ru.is/faculty/luca/), [Antonis Achilleos](https://sites.google.com/view/antonisachilleos/), [Anna Ing&oacute;lfsd&oacute;ttir](https://www.ru.is/kennarar/annai/), [Adrian Francalanza](https://staff.um.edu.mt/afra1/) and [Karoliina Lehtinen](http://www.pageperso.lif.univ-mrs.fr/~karoliina.lehtinen/).
 The project lies in the area of runtime verification and, as the name suggests, aims at studying monitorability of properties, i.e. whether there exists a program (called a monitor) that checks whether a given property holds by examining the execution of the system under scrutiny *at runtime*. I maintain a collaboration with this group.
 
-From 2017 to 2021, I was working on my PhD thesis under the joint direction of [Emmanuel Filiot](http://www.ulb.ac.be/di/ssd/filiot/) (at [Département d'Informatique](http://www.ulb.ac.be/facs/sciences/info/), [Université Libre de Bruxelles](http://www.ulb.ac.be/)) and [Pierre-Alain Reynier](http://pageperso.lif.univ-mrs.fr/~pierre-alain.reynier/) (at [LIS](http://www.lis-lab.fr/), [Aix-Marseille Université](https://www.univ-amu.fr/)), that I defended last September.  I studied extensions of synthesis methods to systems operating with an infinite alphabet, more precisely over *data words*. More details as well as the [manuscript](files/Exibard_ASSD_SASD.pdf), [slides](slides/phd-21/slides.pdf) and [video](https://youtu.be/uJpR63RSpZc) of the defence are available [here]({{< ref "project/example/index.md" >}}).
+From 2017 to 2021, I was working on my PhD thesis under the joint direction of [Emmanuel Filiot](https://verif.ulb.ac.be/efiliot/) (at [Département d'Informatique](http://www.ulb.ac.be/facs/sciences/info/), [Université Libre de Bruxelles](http://www.ulb.ac.be/)) and [Pierre-Alain Reynier](http://pageperso.lif.univ-mrs.fr/~pierre-alain.reynier/) (at [LIS](http://www.lis-lab.fr/), [Aix-Marseille Université](https://www.univ-amu.fr/)), that I defended last September.  I studied extensions of synthesis methods to systems operating with an infinite alphabet, more precisely over *data words*. More details as well as the [manuscript](phd/Exibard_ASSD_SASD.pdf), [slides](slides/phd-21/slides.pdf) and [video](https://youtu.be/uJpR63RSpZc) of the defence are available [here]({{< ref "phd/phd.md" >}}).
 
-I am mainly interested in the Verification and Automatic Synthesis of Computer Systems and its theoretical aspects: mathematical models and algorithms to analyse them. This includes, but is not limited to: Automata, Logic and Game Theory.
+## Research Interests
 
-I am also interested in Sociology (I completed in 2017 the first year of a Master of Sociology at the [EHESS](https://www.ehess.fr/en)), specifically in its methodology, on both the qualitative and quantitative aspects, and epistemology.
-I am particularly curious about its links with Computer Science and Mathematics, and about the epistemological consequences of recent discoveries in Complex Networks theory on the conceptualisation of social dynamics.
+Within computer science, I am mainly interested in the Verification and Automatic Synthesis of Computer Systems and their theoretical aspects: mathematical models and algorithms to analyse them. This includes, but is not limited to: Automata, Logic and Game Theory.
 
-Recently, I discovered Theoretical Ecology, which makes fascinating use of the models developed in mathematics and computer science. I am planning on gathering knowledge in this field, so that I can eventually contribute.
+I am also interested in other fields, especially in Sociology (I completed in 2017 the first year of a Master of Sociology at the [EHESS](https://www.ehess.fr/en)), especially its methodology, on both the qualitative and quantitative aspects, and epistemology.
+I am particularly curious about its links with Computer Science and Mathematics, and about the epistemological consequences of recent discoveries in Complex Networks theory for the conceptualisation of social dynamics.
 
-In my spare time, I enjoy playing the [nyckelharpa]({{< ref "project/example/index.md" >}}).
+Recently, I have become increasingly interested in Theoretical Ecology, which makes fascinating use of the models developed in mathematics and computer science. I plan to gain knowledge in this area, so that I can eventually contribute.
+
+In my spare time, I enjoy playing the [nyckelharpa]({{< ref "nyckelharpa/_index.md" >}}).
 {style="text-align: justify;"}
